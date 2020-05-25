@@ -1,0 +1,24 @@
+{
+  "name": "subify-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "serverless-plugin-typescript": "^1.1.9",
+    "typescript": "^3.9.3"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.51"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamdavies1915/subify-backend.git"
+  },
+  "author": "Adam Murray-Davies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamdavies1915/subify-backend/issues"
+  },
+  "homepage": "https://github.com/adamdavies1915/subify-backend#readme"
+}
