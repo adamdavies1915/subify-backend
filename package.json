@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "dependencies": {
     "serverless-plugin-typescript": "^1.1.9",
-    "typescript": "^3.9.3"
+    "typescript": "^3.9.3",
+    "source-map-support": "^0.5.19"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.51",
