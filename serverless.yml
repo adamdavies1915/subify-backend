@@ -120,5 +120,5 @@ functions:
 #       Value: "Some output value"
 plugins:
   - serverless-plugin-typescript
-  - serverless-dynamodb-localn
+  - serverless-dynamodb-local
   - serverless-offline
